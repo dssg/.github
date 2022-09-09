@@ -1,20 +1,18 @@
 ## Data Science for Social Good
 
 ### Tools
-
 - Triage
 - Aequitas
 
+## Tutorials and Training Content
+- Hitchikers Guide to DSSG
+- Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems
 
 ### Utilities
 - Ohio
 
 
 ### Projects
-
-
-
-
 
 <!--
 
