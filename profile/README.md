@@ -8,6 +8,11 @@
 - Hitchikers Guide to DSSG
 - Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems
 
+## Classes
+- 10-718 ML In Practice (CMU)
+- 94-889 ML for Public Policy Lab (CMU)
+
+
 ### Utilities
 - Ohio
 
