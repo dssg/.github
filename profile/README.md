@@ -1,8 +1,9 @@
 ## Data Science for Social Good
+Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories related to the Data Science for Social Good Programs (initialy at University of Chicago, now at Carnegie Mellon University)
 
 ### Tools
-- Triage
-- Aequitas
+- [Triage](triage): ML Pipeline toolkit for public policy and social good projects
+- [Aequitas](aequitas): Bias and Fairness Audit Toolkit 
 
 ## Tutorials and Training Content
 - Hitchikers Guide to DSSG
