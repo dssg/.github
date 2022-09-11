@@ -1,5 +1,5 @@
 ## Data Science for Social Good
-Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories related to the Data Science for Social Good Programs (initialy at University of Chicago, now at Carnegie Mellon University)
+Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories related to the Data Science for Social Good Programs (initially at University of Chicago, now at Carnegie Mellon University)
 
 ### Tools
 - [Triage](http://www.github.com/dssg/triage): ML Pipeline toolkit for public policy and social good projects
