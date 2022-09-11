@@ -2,16 +2,16 @@
 Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories related to the Data Science for Social Good Programs (initialy at University of Chicago, now at Carnegie Mellon University)
 
 ### Tools
-- [Triage](triage): ML Pipeline toolkit for public policy and social good projects
-- [Aequitas](aequitas): Bias and Fairness Audit Toolkit 
+- [Triage](http://www.github.com/dssg/triage): ML Pipeline toolkit for public policy and social good projects
+- [Aequitas](http://www.github.com/dssg/aequitas): Bias and Fairness Audit Toolkit 
 
 ## Tutorials and Training Content
-- Hitchikers Guide to DSSG
-- Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems
+- [Hitchikers Guide to DSSG](https://github.com/dssg/hitchhikers-guide): Data Science for Social Good Fellowship Manual and tutorials from the summer program
+- [Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems] (https://dssg.github.io/fairness_tutorial/): Hands-on tutorial presented at several conferences and workshops
 
 ## Classes
-- 10-718 ML In Practice (CMU)
-- 94-889 ML for Public Policy Lab (CMU)
+- [10-718 ML In Practice]:(https://github.com/dssg/MLinPractice) (CMU): Materials for ML in Practice class at CMU
+- [94-889 ML for Public Policy Lab](https://github.com/dssg/mlforpublicpolicylab) (CMU): Materials for ML for Public Policy Lab class at CMU
 
 
 ### Utilities
