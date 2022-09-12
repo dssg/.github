@@ -7,15 +7,15 @@ Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories relate
 
 ## Tutorials and Training Content
 - [Hitchikers Guide to DSSG](https://github.com/dssg/hitchhikers-guide): Data Science for Social Good Fellowship Manual and tutorials from the summer program
-- [Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems] (https://dssg.github.io/fairness_tutorial/): Hands-on tutorial presented at several conferences and workshops
+- [Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems](https://dssg.github.io/fairness_tutorial/): Hands-on tutorial presented at several conferences and workshops
 
 ## Classes
 - [10-718 ML In Practice]:(https://github.com/dssg/MLinPractice) (CMU): Materials for ML in Practice class at CMU
 - [94-889 ML for Public Policy Lab](https://github.com/dssg/mlforpublicpolicylab) (CMU): Materials for ML for Public Policy Lab class at CMU
 
 
-### Utilities
-- Ohio
+### Useful Utilities
+- [Ohio](https://dssg.github.io/ohio/): useful I/O utility to deal with CSVs, postgres, and python
 
 
 ### Projects
