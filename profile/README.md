@@ -10,7 +10,7 @@ Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories relate
 - [Dealing with Fairness and Bias in Machine Learning/Data Science/AI Systems](https://dssg.github.io/fairness_tutorial/): Hands-on tutorial presented at several conferences and workshops
 
 ## Classes
-- [10-718 ML In Practice]:(https://github.com/dssg/MLinPractice) (CMU): Materials for ML in Practice class at CMU
+- [10-718 ML In Practice](https://github.com/dssg/MLinPractice) (CMU): Materials for ML in Practice class at CMU
 - [94-889 ML for Public Policy Lab](https://github.com/dssg/mlforpublicpolicylab) (CMU): Materials for ML for Public Policy Lab class at CMU
 
 
