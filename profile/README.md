@@ -15,7 +15,7 @@ Open source ML/AI/Data Science Tools, Tutorials, and Project Repositories relate
 
 
 ### Useful Utilities
-- [Ohio](https://dssg.github.io/ohio/): useful I/O utility to deal with CSVs, postgres, and python
+- [Ohio](https://github.com/dssg/ohio): useful I/O utility to deal with CSVs, postgres, and python
 
 
 ### Projects
